@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://rachi2006.github.io/YOUR-REPO/">
+  <a href="https://thefool-2006.github.io/globe//">
     <img src="globe.gif" width="320" alt="Interactive 3D globe – click to explore">
   </a>
   <br>
